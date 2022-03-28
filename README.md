@@ -23,5 +23,4 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-###
-[playgame](https://tourmaline-gnome-fa055c.netlify.app/)
+## [playgame](https://tourmaline-gnome-fa055c.netlify.app/)
